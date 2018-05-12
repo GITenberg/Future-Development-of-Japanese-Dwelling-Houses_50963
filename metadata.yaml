@@ -1,10 +1,16 @@
 _repo: Future-Development-of-Japanese-Dwelling-Houses_50963
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50963-h/images/cover.jpg
 creator:
   author:
     agent_name: Shiga, Shigetsura
     gutenberg_agent_id: '46166'
     url: http://www.gutenberg.org/2009/agents/46166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50963#Future-Development-of-Japanese-Dwelling-Houses
 gutenberg_issued: '2016-01-18'
 gutenberg_type: Text
 identifiers:
